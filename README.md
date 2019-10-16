@@ -12,9 +12,7 @@ Building and uploading the Morse Code Interpreter requires Arduino IDE (see [www
 
 ### Hardware
 
-Here the Arduino circuit plan:
-
-<img src="Imgs/hardware_preview.png" width="300" title="Morse Code Interpreter circuit plan">
+<img src="Imgs/hardware_preview.png" width="400" title="Morse Code Interpreter circuit plan">
 
 ## License
 
