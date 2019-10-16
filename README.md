@@ -2,7 +2,7 @@
 
 Morse Code Interpreter is an Arduino project. It interpretes morse code into readable characters.
 
-<img src="Imags/result_preview.gif" width="500" title="Morse Code Interpreter preview">
+<img src="Imgs/result_preview.gif" width="500" title="Morse Code Interpreter preview">
 
 ## Requirements
 
@@ -13,7 +13,8 @@ Building and uploading the Morse Code Interpreter requires Arduino IDE (see [www
 ### Hardware
 
 Here the Arduino circuit plan:
-<img src="Imags/schema_preview.gif" width="300" title="Morse Code Interpreter circuit plan">
+
+<img src="Imgs/hardware_preview.png" width="300" title="Morse Code Interpreter circuit plan">
 
 ## License
 
